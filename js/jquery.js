@@ -203,7 +203,7 @@ var infoList = [
   {
     title: "打车太贵了！这样能省一点",
     content: "在篝火社区公众号菜单栏，每天都可以领取🚕滴滴、花小猪、同程、T3打车券，单单享8、9折，部分平台最高立减10元！",
-    link: "https://flowus.cn/share/5bb23fc4-132f-443d-9062-5ff399f5aa8b"target=\"_self\"",
+    link: "http://h5.yanghuimall.com/pages/login/WxH5Login?spreadCode=9F65Z7 \"target=\"_self\"",
     img: "https://wework.qpic.cn/wwpic3az/903841_Y3DEvZFuQcGjTLz_1752051865",
   },
   {
@@ -215,7 +215,7 @@ var infoList = [
   {
     title: "📽️电影票低至８折！",
     content: "篝火社区严选认证，放心下单（此链接也被我放在了公众号菜单栏），每张电影票基本上可以稳定省 5 元！",
-    link: "https://flowus.cn/share/5bb23fc4-132f-443d-9062-5ff399f5aa8b"target=\"_self\"",
+    link: "http://h5.yanghuimall.com/pages/login/WxH5Login?spreadCode=9F65Z7 \"target=\"_self\"",
     img: "https://wework.qpic.cn/wwpic3az/223450_lbeVVjwkT9qQww8_1752050346",
   },
   {
